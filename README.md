@@ -5,7 +5,9 @@ For more information on each lab, its report gives a detailed explanation on the
 
 Final Project Description:
 Pac-Man | SystemVerilog, C, Xilinx Vivado, Vitis HLS, RealDigital Urbana Board 
+
 October 2023 - December 2023
+
 • Emulated Namco’s popularized arcade game using Vivado design software and the Urbana FPGA hardware.
 • Utilized PNG to COE file conversion to import and instantiate sprites as modules, defining SystemVerilog code to modify
 behavior.
