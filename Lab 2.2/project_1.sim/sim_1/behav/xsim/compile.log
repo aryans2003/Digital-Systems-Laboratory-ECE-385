@@ -1,0 +1,23 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/ECE385/lab22given/provided/design/Control.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/ECE385/lab22given/provided/design/HexDriver.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module HexDriver
+INFO: [VRFC 10-311] analyzing module nibble_to_hex
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/ECE385/lab22given/provided/design/Processor.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Processor
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/ECE385/lab22given/provided/design/Reg_4.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reg_4
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/ECE385/lab22given/provided/design/Register_unit.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register_unit
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/ECE385/lab22given/provided/design/Router.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module router
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/ECE385/lab22given/provided/design/Synchronizers.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sync
+INFO: [VRFC 10-311] analyzing module sync_r0
+INFO: [VRFC 10-311] analyzing module sync_r1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/ECE385/lab22given/provided/design/compute.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module compute
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/ECE385/lab22given/provided/sim/testbench_8.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/ECE385/project_1/project_1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

@@ -1,0 +1,14 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/ECE385/lab22given/provided/design/Control.sv,1694039555,systemVerilog,,C:/ECE385/lab22given/provided/design/HexDriver.sv,,control,,uvm,,,,,,
+C:/ECE385/lab22given/provided/design/HexDriver.sv,1693796806,systemVerilog,,C:/ECE385/lab22given/provided/design/Processor.sv,,HexDriver,,uvm,,,,,,
+C:/ECE385/lab22given/provided/design/Processor.sv,1694043203,systemVerilog,,C:/ECE385/lab22given/provided/design/Reg_4.sv,,Processor,,uvm,,,,,,
+C:/ECE385/lab22given/provided/design/Reg_4.sv,1694039822,systemVerilog,,C:/ECE385/lab22given/provided/design/Register_unit.sv,,reg_4,,uvm,,,,,,
+C:/ECE385/lab22given/provided/design/Register_unit.sv,1694043491,systemVerilog,,C:/ECE385/lab22given/provided/design/Router.sv,,register_unit,,uvm,,,,,,
+C:/ECE385/lab22given/provided/design/Router.sv,1693796806,systemVerilog,,C:/ECE385/lab22given/provided/design/Synchronizers.sv,,router,,uvm,,,,,,
+C:/ECE385/lab22given/provided/design/Synchronizers.sv,1693796806,systemVerilog,,C:/ECE385/lab22given/provided/design/compute.sv,,sync;sync_r0;sync_r1,,uvm,,,,,,
+C:/ECE385/lab22given/provided/design/compute.sv,1693796806,systemVerilog,,C:/ECE385/lab22given/provided/sim/testbench_8.sv,,compute,,uvm,,,,,,
+C:/ECE385/lab22given/provided/sim/testbench_8.sv,1693796806,systemVerilog,,,,testbench,,uvm,,,,,,
+C:/ECE385/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,uvm,,,,,,
